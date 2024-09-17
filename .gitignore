@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /nmap_qa_dataset.json
+nmap_ai_questions.txt
+nmap_ai_qa.txt
+/nmap_qa_ai_dataset.json
+/nmap_qa_ai_dataset_lstudio.json
